@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'CreativaMiddleEastReport'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_60AFA832DC704FAAAEBE73AE1F41AB39 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A28B64F27CC46FE9D75EEDD5CB8DF9B }}
