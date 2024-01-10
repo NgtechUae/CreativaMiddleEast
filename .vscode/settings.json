@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d15df91f-577a-4dcd-b899-141ddddebfa1/resourceGroups/NGTech/providers/Microsoft.Web/sites/CreativeMiddleEastReportApp",
+    "appService.deploySubpath": "."
+}
